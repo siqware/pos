@@ -1,0 +1,14 @@
+.extra{
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+}
+input {
+    line-height: 1.4 !important;
+}
+.icon-cash{
+    margin-bottom: 7px !important;
+    font-size: xx-large;
+}
+.ui.menu .dropdown.item .menu#stock-notification{
+    min-width: max-content !important;
+}
